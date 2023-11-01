@@ -1,7 +1,8 @@
 # Ocean Town
 use : python 
 
-# How to use
+### How to use
+<p alig="left">
 1. run the python **bot.py**
 ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/1e96e146-ad1c-4567-a4aa-ea8385abf3d8)
 
@@ -16,6 +17,7 @@ use : python
 
 5.click submit and then have a message tell you about waiting for admin accept you
 ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/1c462cb6-a5f8-49cf-a83f-ddfa830bd188)
+</p>
 
 # Admin's view
 ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/bcbbbfcf-1201-471c-b285-dc2a73155606)
