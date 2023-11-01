@@ -3,7 +3,7 @@ use : python
 
 ### How to use
 1. run the python **bot.py**
-2. 
+
  ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/1e96e146-ad1c-4567-a4aa-ea8385abf3d8)
 
 2.go to some chat room and type **/verify**
