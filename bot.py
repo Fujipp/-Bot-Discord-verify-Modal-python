@@ -38,7 +38,7 @@ class ReportModal(discord.ui.Modal, title="กรอกข้อมูลรั�
 
     async def on_submit(self, interaction: discord.Interaction):
         await interaction.response.send_message(f"<a:73b:1155924549699911761>: **__ห้ามส่งซ้ำ__** \n <:71a:1155924277959344168>: คุณ{interaction.user.mention}ได้กรอกข้อมูลเรียบร้อยแล้ว \n <:71a:1155924277959344168>: รอทาง <@&1151758322396037130> ตรวจสอบและให้ยศ <a:22bblue:1157225184743395328><@&1152842229644275753>", ephemeral=True)
-        channel = discord.utils.get(interaction.guild.channels, name="mod")
+        channel = discord.utils.get(interaction.guild.channels, name="NAME_ID_ROOM")
         await channel.send(f"**ส่งโดย:** {interaction.user.mention} \n **ชื่อ IC:** {self.user_nameic} \n **อายุ OC:** {self.user_oc} \n **รู้จักเซิร์ฟนี้จาก:** {self.user_whoareyou} \n **Facebook:** {self.user_social} \n **STEAM LINK:** {self.user_steam}")
 
 class TestMenoButton(discord.ui.View):
@@ -56,6 +56,6 @@ async def verify(ctx):
 async def main():
     async with client:
         await load()
-        await client.start("MTE2NzcxNTU0MjgzNzIzMTY1Ng.GUJEXF.Hq22Fme6giHPrPb_kf15EF1lGwsvSgeeq89TIc")
+        await client.start("YOUR_TOKEN_BOT")
 
 asyncio.run(main())
