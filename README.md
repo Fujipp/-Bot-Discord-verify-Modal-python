@@ -1,7 +1,8 @@
 # Ocean Town
+i make this bot for use verify interview user for accept new member join the Ocean Town.
+i use Python to make it.
 
-
-### How to use
+# How to use
 
 1. Install pip install discord.py packages
    ```sh
@@ -17,7 +18,7 @@
    /verify
    ```
    ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/b328d0b4-612a-4345-b96a-c3da213435ad)
-4. you can click red button and then have popup show on your screen`
+4. you can click red button and then have popup show on your screen
    ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/3ec36f15-624a-49a1-9132-d80bab144af0)
 5. type your information in textbox  
    ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/40869ac0-e7cf-4559-b6be-f2e40bdbf7a2)
