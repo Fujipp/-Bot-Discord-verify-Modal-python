@@ -1,10 +1,32 @@
 # Ocean Town
 use : python 
 
-# How to use
-- run the python **bot.py**
+### How to use
 
- ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/1e96e146-ad1c-4567-a4aa-ea8385abf3d8)
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Install pip install discord.py packages
+   ```sh
+   pip install discord.py
+   ```
+2. run the bot file
+   ```sh
+   python bot.py
+   ```
+   ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/1e96e146-ad1c-4567-a4aa-ea8385abf3d8)
+3. Install NPM package
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 - go to some chat room and type **/verify**
 
