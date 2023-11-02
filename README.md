@@ -1,6 +1,5 @@
 # Ocean Town
-i make this bot for use verify interview user for accept new member join the Ocean Town. 
-i use Python to make it.
+i make this bot for use verify interview user for accept new member join the Ocean Town. <br> i use Python to make it.
 
 ## How to use
 
