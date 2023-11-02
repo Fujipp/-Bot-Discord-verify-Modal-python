@@ -19,9 +19,9 @@
    ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/b328d0b4-612a-4345-b96a-c3da213435ad)
 4. you can click red button and then have popup show on your screen`
    ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/3ec36f15-624a-49a1-9132-d80bab144af0)
-   5.type your information in textbox
+5. type your information in textbox  
    ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/40869ac0-e7cf-4559-b6be-f2e40bdbf7a2)
-   6.click submit and then have a message tell you about waiting for admin accept you
+6. click submit and then have a message tell you about waiting for admin accept you
    ![image](https://github.com/Fujipp/-Bot-Discord-verify-Modal-python/assets/149602746/1c462cb6-a5f8-49cf-a83f-ddfa830bd188)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
